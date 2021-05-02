@@ -1,0 +1,59 @@
+body{
+	width: 80%;
+}
+body>table{
+	width: 100%;
+	justify-content: space-between;
+}
+
+.at{
+	width:100%;
+	margin:20px;
+	padding: 20px; 	
+}
+input[type=text],[type=email]{
+	width: 40%;
+	margin: 10px;
+	padding: 4px;
+	justify-content:space-between; 
+	font-weight: bold;
+	align-items: auto;
+}
+.gen{
+	margin: 10px;
+	width: 20%;
+}
+.sub{
+	
+	margin: 10px  200px;
+
+}	
+
+label{
+	font-size: 20px;
+}
+input [type=submit]{
+	cursor: pointer;
+}
+#hide{
+	background-color: gray;
+	width: 100%;
+	margin-left: ;
+	display: ;
+
+	 
+}
+a{
+	cursor: pointer;
+}
+#d{
+	width: 100%;
+	margin: auto;
+	display:none;
+	align-content: 80px;
+	
+}
+#w {
+	width: 100%;
+	
+}
